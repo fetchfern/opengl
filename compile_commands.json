@@ -1,0 +1,23 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-c",
+      "-std=c++20",
+      "-O1",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-Wpedantic",
+      "-Wno-c99-extensions",
+      "-Iinclude",
+      "-Isrc",
+      "-o",
+      "src/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/fetch/git/opengl",
+    "file": "/home/fetch/git/opengl/src/main.cpp",
+    "output": "/home/fetch/git/opengl/src/main.o"
+  }
+]
